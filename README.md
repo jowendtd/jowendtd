@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jowendtd&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jowendtd&langs_count=5&theme=tokyonight)]()
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jowendtd&show_icons=true&locale=en&layout=compact" alt="hamza4600" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jowendtd&show_icons=true&locale=en" alt="hamza4600" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jowendtd&" alt="hamza4600" /></p>
